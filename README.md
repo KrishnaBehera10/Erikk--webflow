@@ -1,56 +1,30 @@
-# 🌐 Erikk Webflow Landing Page Clone
+# 🌐 Erikk Webflow - Landing Page Clone
 
-A fully responsive and modern landing page inspired by Webflow designs. This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, focused on clean layout and animations.
-
----
-
-## 📌 Features
-
-- 🎯 Hero section with call-to-action
-- 📱 Responsive design (mobile-first approach)
-- ✨ Smooth scroll and section reveal animations
-- 💡 Clean and modern layout using Tailwind CSS utility classes
-- 🧩 Modular and structured code
+This is a simple and clean landing page made using **HTML** and **SCSS**. The design is inspired by Webflow-style websites. It's fully responsive and works well on mobile and desktop.
 
 ---
 
-## 🚀 Technologies Used
+## ✨ Features
 
-- **HTML5**
-- **Tailwind CSS**
-- **JavaScript**
+- Modern and clean UI
+- Responsive for all devices
+- Smooth scroll and section transitions
+- Built using HTML and SCSS
 
 ---
 
-## 🖥️ Live Preview
+## 🛠 Technologies Used
 
-👉 [Click here to see the live site](https://krishnabehera10.github.io/Erikk--webflow/)
+- HTML5  
+- SCSS (CSS Preprocessor)  
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://krishnabehera10.github.io/Erikk--webflow/)
 
 ---
 
 ## 📸 Screenshot
 
-![Erikk Webflow Clone Preview](screenshot.png)
-
-> (Optional: Upload a screenshot in the repo and rename it to `screenshot.png`)
-
----
-
-## 🧠 What I Learned
-
-- Building complex UIs with Tailwind CSS
-- Responsive design best practices
-- Scroll-based UI interaction using vanilla JS
-- Section-based layout and UI structuring
-
----
-
-## 📫 Contact
-
-- **Email**: krishnakantbehera137@gmail.com  
-- **LinkedIn**: [krishna-kant-behera](https://www.linkedin.com/in/krishna-kant-behera-580297336/)
-
----
-
-## 📁 Folder Structure
-
+(Upload a screenshot and add this line below:)
